@@ -1,4 +1,4 @@
-package harshjava.productcutsomerapi.DTO;
+package harshjava.productcutsomerapi.DTO.Response;
 
 import harshjava.productcutsomerapi.Entity.Product;
 

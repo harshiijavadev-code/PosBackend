@@ -1,4 +1,4 @@
-package harshjava.productcutsomerapi.DTO;
+package harshjava.productcutsomerapi.DTO.Requests;
 
 import jakarta.annotation.Nullable;
 import jakarta.validation.constraints.*;

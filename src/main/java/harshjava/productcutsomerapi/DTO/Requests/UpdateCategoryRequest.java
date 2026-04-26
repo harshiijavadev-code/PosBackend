@@ -1,4 +1,4 @@
-package harshjava.productcutsomerapi.DTO;
+package harshjava.productcutsomerapi.DTO.Requests;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
